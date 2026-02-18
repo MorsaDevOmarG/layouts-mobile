@@ -6,4 +6,4 @@
 ## Herramientas y/o Tecnologías
 
 - React Native
--
+- JS
